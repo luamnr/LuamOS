@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "display.h": "c",
+        "idt.h": "c",
+        "util.h": "c",
+        "stdint.h": "c",
+        "mem.h": "c",
+        "stdlib.h": "c",
+        "timer.h": "c",
+        "isr.h": "c",
+        "ports.h": "c",
+        "stdbool.h": "c",
+        "keyboard.h": "c"
+    }
+}
